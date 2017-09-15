@@ -1,0 +1,1124 @@
+{
+    "enumerationValues": [
+        {
+            "value": "AED"
+        }, 
+        {
+            "value": "aed"
+        }, 
+        {
+            "value": "Aed"
+        }, 
+        {
+            "value": "afn"
+        }, 
+        {
+            "value": "AFN"
+        }
+    ], 
+    "name": "Currency", 
+    "checksum": "e1959b29-b28a-4ed7-96d3-1c4df6e02b5c", 
+    "version": "$LATEST", 
+    "lastUpdatedDate": 1505052466.049, 
+    "createdDate": 1505052466.049, 
+    "description": "Available Currencies"
+}
+{
+    "enumerationValues": [
+        {
+            "value": "mwk"
+        }, 
+        {
+            "value": "FJD"
+        }, 
+        {
+            "value": "MXN"
+        }, 
+        {
+            "value": "STD"
+        }, 
+        {
+            "value": "LVL"
+        }, 
+        {
+            "value": "SCR"
+        }, 
+        {
+            "value": "CDF"
+        }, 
+        {
+            "value": "BBD"
+        }, 
+        {
+            "value": "mga"
+        }, 
+        {
+            "value": "HNL"
+        }, 
+        {
+            "value": "UGX"
+        }, 
+        {
+            "value": "MXV"
+        }, 
+        {
+            "value": "ZAR"
+        }, 
+        {
+            "value": "bam"
+        }, 
+        {
+            "value": "egp"
+        }, 
+        {
+            "value": "BSD"
+        }, 
+        {
+            "value": "nio"
+        }, 
+        {
+            "value": "SDG"
+        }, 
+        {
+            "value": "nzd"
+        }, 
+        {
+            "value": "brl"
+        }, 
+        {
+            "value": "IQD"
+        }, 
+        {
+            "value": "CUP"
+        }, 
+        {
+            "value": "GMD"
+        }, 
+        {
+            "value": "TWD"
+        }, 
+        {
+            "value": "fjd"
+        }, 
+        {
+            "value": "mxn"
+        }, 
+        {
+            "value": "std"
+        }, 
+        {
+            "value": "RSD"
+        }, 
+        {
+            "value": "lvl"
+        }, 
+        {
+            "value": "scr"
+        }, 
+        {
+            "value": "cdf"
+        }, 
+        {
+            "value": "bbd"
+        }, 
+        {
+            "value": "hnl"
+        }, 
+        {
+            "value": "ugx"
+        }, 
+        {
+            "value": "MYR"
+        }, 
+        {
+            "value": "mxv"
+        }, 
+        {
+            "value": "zar"
+        }, 
+        {
+            "value": "FKP"
+        }, 
+        {
+            "value": "XOF"
+        }, 
+        {
+            "value": "UYU"
+        }, 
+        {
+            "value": "bsd"
+        }, 
+        {
+            "value": "CVE"
+        }, 
+        {
+            "value": "OMR"
+        }, 
+        {
+            "value": "sdg"
+        }, 
+        {
+            "value": "KES"
+        }, 
+        {
+            "value": "SEK"
+        }, 
+        {
+            "value": "iqd"
+        }, 
+        {
+            "value": "BTN"
+        }, 
+        {
+            "value": "GNF"
+        }, 
+        {
+            "value": "cup"
+        }, 
+        {
+            "value": "gmd"
+        }, 
+        {
+            "value": "twd"
+        }, 
+        {
+            "value": "MZN"
+        }, 
+        {
+            "value": "rsd"
+        }, 
+        {
+            "value": "ARS"
+        }, 
+        {
+            "value": "QAR"
+        }, 
+        {
+            "value": "myr"
+        }, 
+        {
+            "value": "IRR"
+        }, 
+        {
+            "value": "fkp"
+        }, 
+        {
+            "value": "XPD"
+        }, 
+        {
+            "value": "xof"
+        }, 
+        {
+            "value": "THB"
+        }, 
+        {
+            "value": "UZS"
+        }, 
+        {
+            "value": "XPF"
+        }, 
+        {
+            "value": "uyu"
+        }, 
+        {
+            "value": "cve"
+        }, 
+        {
+            "value": "BDT"
+        }, 
+        {
+            "value": "omr"
+        }, 
+        {
+            "value": "LYD"
+        }, 
+        {
+            "value": "kes"
+        }, 
+        {
+            "value": "sek"
+        }, 
+        {
+            "value": "KWD"
+        }, 
+        {
+            "value": "btn"
+        }, 
+        {
+            "value": "XPT"
+        }, 
+        {
+            "value": "gnf"
+        }, 
+        {
+            "value": "RUB"
+        }, 
+        {
+            "value": "mzn"
+        }, 
+        {
+            "value": "ISK"
+        }, 
+        {
+            "value": "ars"
+        }, 
+        {
+            "value": "qar"
+        }, 
+        {
+            "value": "MKD"
+        }, 
+        {
+            "value": "irr"
+        }, 
+        {
+            "value": "xpd"
+        }, 
+        {
+            "value": "thb"
+        }, 
+        {
+            "value": "uzs"
+        }, 
+        {
+            "value": "xpf"
+        }, 
+        {
+            "value": "DZD"
+        }, 
+        {
+            "value": "PAB"
+        }, 
+        {
+            "value": "SGD"
+        }, 
+        {
+            "value": "bdt"
+        }, 
+        {
+            "value": "lyd"
+        }, 
+        {
+            "value": "KGS"
+        }, 
+        {
+            "value": "kwd"
+        }, 
+        {
+            "value": "XAF"
+        }, 
+        {
+            "value": "xpt"
+        }, 
+        {
+            "value": "rub"
+        }, 
+        {
+            "value": "XAG"
+        }, 
+        {
+            "value": "isk"
+        }, 
+        {
+            "value": "CHF"
+        }, 
+        {
+            "value": "HRK"
+        }, 
+        {
+            "value": "CHE"
+        }, 
+        {
+            "value": "DJF"
+        }, 
+        {
+            "value": "mkd"
+        }, 
+        {
+            "value": "TZS"
+        }, 
+        {
+            "value": "VND"
+        }, 
+        {
+            "value": "XAU"
+        }, 
+        {
+            "value": "dzd"
+        }, 
+        {
+            "value": "pab"
+        }, 
+        {
+            "value": "AUD"
+        }, 
+        {
+            "value": "sgd"
+        }, 
+        {
+            "value": "CHW"
+        }, 
+        {
+            "value": "KHR"
+        }, 
+        {
+            "value": "kgs"
+        }, 
+        {
+            "value": "IDR"
+        }, 
+        {
+            "value": "XBA"
+        }, 
+        {
+            "value": "KYD"
+        }, 
+        {
+            "value": "XBC"
+        }, 
+        {
+            "value": "XBB"
+        }, 
+        {
+            "value": "BWP"
+        }, 
+        {
+            "value": "SHP"
+        }, 
+        {
+            "value": "CYP"
+        }, 
+        {
+            "value": "XBD"
+        }, 
+        {
+            "value": "xaf"
+        }, 
+        {
+            "value": "TJS"
+        }, 
+        {
+            "value": "xag"
+        }, 
+        {
+            "value": "chf"
+        }, 
+        {
+            "value": "hrk"
+        }, 
+        {
+            "value": "AED"
+        }, 
+        {
+            "value": "RWF"
+        }, 
+        {
+            "value": "che"
+        }, 
+        {
+            "value": "djf"
+        }, 
+        {
+            "value": "Aed"
+        }, 
+        {
+            "value": "DKK"
+        }, 
+        {
+            "value": "ZWD"
+        }, 
+        {
+            "value": "BGN"
+        }, 
+        {
+            "value": "MMK"
+        }, 
+        {
+            "value": "NOK"
+        }, 
+        {
+            "value": "SYP"
+        }, 
+        {
+            "value": "tzs"
+        }, 
+        {
+            "value": "vnd"
+        }, 
+        {
+            "value": "xau"
+        }, 
+        {
+            "value": "aud"
+        }, 
+        {
+            "value": "LKR"
+        }, 
+        {
+            "value": "chw"
+        }, 
+        {
+            "value": "khr"
+        }, 
+        {
+            "value": "CZK"
+        }, 
+        {
+            "value": "idr"
+        }, 
+        {
+            "value": "xba"
+        }, 
+        {
+            "value": "kyd"
+        }, 
+        {
+            "value": "xbc"
+        }, 
+        {
+            "value": "XCD"
+        }, 
+        {
+            "value": "xbb"
+        }, 
+        {
+            "value": "bwp"
+        }, 
+        {
+            "value": "shp"
+        }, 
+        {
+            "value": "HTG"
+        }, 
+        {
+            "value": "cyp"
+        }, 
+        {
+            "value": "xbd"
+        }, 
+        {
+            "value": "tjs"
+        }, 
+        {
+            "value": "BHD"
+        }, 
+        {
+            "value": "rwf"
+        }, 
+        {
+            "value": "aed"
+        }, 
+        {
+            "value": "KZT"
+        }, 
+        {
+            "value": "SZL"
+        }, 
+        {
+            "value": "dkk"
+        }, 
+        {
+            "value": "zwd"
+        }, 
+        {
+            "value": "YER"
+        }, 
+        {
+            "value": "bgn"
+        }, 
+        {
+            "value": "AFN"
+        }, 
+        {
+            "value": "mmk"
+        }, 
+        {
+            "value": "nok"
+        }, 
+        {
+            "value": "syp"
+        }, 
+        {
+            "value": "AWG"
+        }, 
+        {
+            "value": "NPR"
+        }, 
+        {
+            "value": "lkr"
+        }, 
+        {
+            "value": "MNT"
+        }, 
+        {
+            "value": "GBP"
+        }, 
+        {
+            "value": "czk"
+        }, 
+        {
+            "value": "XTS"
+        }, 
+        {
+            "value": "xcd"
+        }, 
+        {
+            "value": "HUF"
+        }, 
+        {
+            "value": "htg"
+        }, 
+        {
+            "value": "BYR"
+        }, 
+        {
+            "value": "BIF"
+        }, 
+        {
+            "value": "bhd"
+        }, 
+        {
+            "value": "kzt"
+        }, 
+        {
+            "value": "szl"
+        }, 
+        {
+            "value": "yer"
+        }, 
+        {
+            "value": "XDR"
+        }, 
+        {
+            "value": "afn"
+        }, 
+        {
+            "value": "BZD"
+        }, 
+        {
+            "value": "MOP"
+        }, 
+        {
+            "value": "awg"
+        }, 
+        {
+            "value": "NAD"
+        }, 
+        {
+            "value": "npr"
+        }, 
+        {
+            "value": "mnt"
+        }, 
+        {
+            "value": "SKK"
+        }, 
+        {
+            "value": "gbp"
+        }, 
+        {
+            "value": "TMM"
+        }, 
+        {
+            "value": "xts"
+        }, 
+        {
+            "value": "huf"
+        }, 
+        {
+            "value": "PEN"
+        }, 
+        {
+            "value": "WST"
+        }, 
+        {
+            "value": "byr"
+        }, 
+        {
+            "value": "CLF"
+        }, 
+        {
+            "value": "bif"
+        }, 
+        {
+            "value": "GTQ"
+        }, 
+        {
+            "value": "CLP"
+        }, 
+        {
+            "value": "xdr"
+        }, 
+        {
+            "value": "TND"
+        }, 
+        {
+            "value": "bzd"
+        }, 
+        {
+            "value": "mop"
+        }, 
+        {
+            "value": "nad"
+        }, 
+        {
+            "value": "skk"
+        }, 
+        {
+            "value": "SLL"
+        }, 
+        {
+            "value": "tmm"
+        }, 
+        {
+            "value": "pen"
+        }, 
+        {
+            "value": "wst"
+        }, 
+        {
+            "value": "clf"
+        }, 
+        {
+            "value": "XFO"
+        }, 
+        {
+            "value": "DOP"
+        }, 
+        {
+            "value": "gtq"
+        }, 
+        {
+            "value": "KMF"
+        }, 
+        {
+            "value": "clp"
+        }, 
+        {
+            "value": "XFU"
+        }, 
+        {
+            "value": "tnd"
+        }, 
+        {
+            "value": "GEL"
+        }, 
+        {
+            "value": "MAD"
+        }, 
+        {
+            "value": "sll"
+        }, 
+        {
+            "value": "TOP"
+        }, 
+        {
+            "value": "AZN"
+        }, 
+        {
+            "value": "PGK"
+        }, 
+        {
+            "value": "UAH"
+        }, 
+        {
+            "value": "xfo"
+        }, 
+        {
+            "value": "ERN"
+        }, 
+        {
+            "value": "dop"
+        }, 
+        {
+            "value": "kmf"
+        }, 
+        {
+            "value": "xfu"
+        }, 
+        {
+            "value": "MRO"
+        }, 
+        {
+            "value": "gel"
+        }, 
+        {
+            "value": "CNY"
+        }, 
+        {
+            "value": "mad"
+        }, 
+        {
+            "value": "azn"
+        }, 
+        {
+            "value": "top"
+        }, 
+        {
+            "value": "pgk"
+        }, 
+        {
+            "value": "BMD"
+        }, 
+        {
+            "value": "PHP"
+        }, 
+        {
+            "value": "XXX"
+        }, 
+        {
+            "value": "uah"
+        }, 
+        {
+            "value": "PYG"
+        }, 
+        {
+            "value": "ern"
+        }, 
+        {
+            "value": "JMD"
+        }, 
+        {
+            "value": "COP"
+        }, 
+        {
+            "value": "USD"
+        }, 
+        {
+            "value": "COU"
+        }, 
+        {
+            "value": "mro"
+        }, 
+        {
+            "value": "cny"
+        }, 
+        {
+            "value": "USN"
+        }, 
+        {
+            "value": "ETB"
+        }, 
+        {
+            "value": "VEB"
+        }, 
+        {
+            "value": "USS"
+        }, 
+        {
+            "value": "SOS"
+        }, 
+        {
+            "value": "VUV"
+        }, 
+        {
+            "value": "LAK"
+        }, 
+        {
+            "value": "bmd"
+        }, 
+        {
+            "value": "php"
+        }, 
+        {
+            "value": "xxx"
+        }, 
+        {
+            "value": "BND"
+        }, 
+        {
+            "value": "ZMK"
+        }, 
+        {
+            "value": "pyg"
+        }, 
+        {
+            "value": "LRD"
+        }, 
+        {
+            "value": "jmd"
+        }, 
+        {
+            "value": "ALL"
+        }, 
+        {
+            "value": "MTL"
+        }, 
+        {
+            "value": "cop"
+        }, 
+        {
+            "value": "usd"
+        }, 
+        {
+            "value": "cou"
+        }, 
+        {
+            "value": "usn"
+        }, 
+        {
+            "value": "ILS"
+        }, 
+        {
+            "value": "etb"
+        }, 
+        {
+            "value": "veb"
+        }, 
+        {
+            "value": "GHS"
+        }, 
+        {
+            "value": "GYD"
+        }, 
+        {
+            "value": "KPW"
+        }, 
+        {
+            "value": "uss"
+        }, 
+        {
+            "value": "BOB"
+        }, 
+        {
+            "value": "MDL"
+        }, 
+        {
+            "value": "sos"
+        }, 
+        {
+            "value": "vuv"
+        }, 
+        {
+            "value": "lak"
+        }, 
+        {
+            "value": "AMD"
+        }, 
+        {
+            "value": "bnd"
+        }, 
+        {
+            "value": "zmk"
+        }, 
+        {
+            "value": "TRY"
+        }, 
+        {
+            "value": "LBP"
+        }, 
+        {
+            "value": "JOD"
+        }, 
+        {
+            "value": "lrd"
+        }, 
+        {
+            "value": "all"
+        }, 
+        {
+            "value": "HKD"
+        }, 
+        {
+            "value": "EUR"
+        }, 
+        {
+            "value": "mtl"
+        }, 
+        {
+            "value": "LSL"
+        }, 
+        {
+            "value": "CAD"
+        }, 
+        {
+            "value": "BOV"
+        }, 
+        {
+            "value": "EEK"
+        }, 
+        {
+            "value": "MUR"
+        }, 
+        {
+            "value": "GIP"
+        }, 
+        {
+            "value": "RON"
+        }, 
+        {
+            "value": "ils"
+        }, 
+        {
+            "value": "ghs"
+        }, 
+        {
+            "value": "gyd"
+        }, 
+        {
+            "value": "kpw"
+        }, 
+        {
+            "value": "bob"
+        }, 
+        {
+            "value": "mdl"
+        }, 
+        {
+            "value": "NGN"
+        }, 
+        {
+            "value": "CRC"
+        }, 
+        {
+            "value": "PKR"
+        }, 
+        {
+            "value": "amd"
+        }, 
+        {
+            "value": "try"
+        }, 
+        {
+            "value": "ANG"
+        }, 
+        {
+            "value": "lbp"
+        }, 
+        {
+            "value": "jod"
+        }, 
+        {
+            "value": "hkd"
+        }, 
+        {
+            "value": "eur"
+        }, 
+        {
+            "value": "lsl"
+        }, 
+        {
+            "value": "SRD"
+        }, 
+        {
+            "value": "LTL"
+        }, 
+        {
+            "value": "SAR"
+        }, 
+        {
+            "value": "TTD"
+        }, 
+        {
+            "value": "cad"
+        }, 
+        {
+            "value": "bov"
+        }, 
+        {
+            "value": "MVR"
+        }, 
+        {
+            "value": "eek"
+        }, 
+        {
+            "value": "mur"
+        }, 
+        {
+            "value": "INR"
+        }, 
+        {
+            "value": "gip"
+        }, 
+        {
+            "value": "ron"
+        }, 
+        {
+            "value": "KRW"
+        }, 
+        {
+            "value": "JPY"
+        }, 
+        {
+            "value": "AOA"
+        }, 
+        {
+            "value": "PLN"
+        }, 
+        {
+            "value": "ngn"
+        }, 
+        {
+            "value": "SBD"
+        }, 
+        {
+            "value": "crc"
+        }, 
+        {
+            "value": "pkr"
+        }, 
+        {
+            "value": "ang"
+        }, 
+        {
+            "value": "MWK"
+        }, 
+        {
+            "value": "srd"
+        }, 
+        {
+            "value": "ltl"
+        }, 
+        {
+            "value": "sar"
+        }, 
+        {
+            "value": "ttd"
+        }, 
+        {
+            "value": "MGA"
+        }, 
+        {
+            "value": "mvr"
+        }, 
+        {
+            "value": "inr"
+        }, 
+        {
+            "value": "BAM"
+        }, 
+        {
+            "value": "EGP"
+        }, 
+        {
+            "value": "krw"
+        }, 
+        {
+            "value": "aoa"
+        }, 
+        {
+            "value": "jpy"
+        }, 
+        {
+            "value": "pln"
+        }, 
+        {
+            "value": "sbd"
+        }, 
+        {
+            "value": "NIO"
+        }, 
+        {
+            "value": "NZD"
+        }, 
+        {
+            "value": "BRL"
+        }
+    ], 
+    "name": "Currency", 
+    "checksum": "529f01d3-105a-4988-adf4-30cdcb72911a", 
+    "version": "$LATEST", 
+    "lastUpdatedDate": 1505052668.725, 
+    "createdDate": 1505052668.725, 
+    "description": "Available Currencies"
+}
